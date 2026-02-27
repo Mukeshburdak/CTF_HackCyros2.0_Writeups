@@ -113,6 +113,3 @@ This challenge demonstrates how small hints like a specific date can drastically
 The flag was hidden in plain sight — inside the photographer’s own comment.
 
 ---
-![Uploading Comment.jpeg…]()
-
-

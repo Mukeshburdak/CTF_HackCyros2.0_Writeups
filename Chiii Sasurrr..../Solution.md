@@ -118,3 +118,17 @@ cyros{23.20,76.99}
 
 
 *Coordinates found. Khaini declined. Flag accepted. 🫡*
+
+Problem.png
+-
+<img width="1600" height="518" alt="problem" src="https://github.com/user-attachments/assets/6a893892-00df-4635-b03a-ea55a77a5107" />
+
+Map.png
+-
+<img width="1128" height="811" alt="Map" src="https://github.com/user-attachments/assets/e2f0f64f-a5ef-4205-b08c-f83d4dd4c303" />
+
+Convert.png
+-
+<img width="797" height="544" alt="Convert" src="https://github.com/user-attachments/assets/44574db8-10b4-4713-8188-34ee78c36bf7" />
+
+---
